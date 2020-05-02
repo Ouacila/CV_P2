@@ -20,8 +20,18 @@ section aside {
     width:200px;
     
 }
-section article  {
-
-
-
+.fas fa-id-card{
+	style=font-size:30px;
+}
+.fas fa-tools{
+ style=font-size:30px;
+ }
+ .fas fa-palette{
+  style=font-size:40px;
+}
+.fas fa-graduation-cap{
+ style=font-size:40px;
+ }
+ .fas fa-briefcase{
+  style=font-size:40px;
 }
