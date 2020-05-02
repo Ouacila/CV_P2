@@ -1,0 +1,27 @@
+header{
+    width:100%;
+    height:150px;
+    background-color:#64FFDA;
+
+}
+#photo{
+    
+}
+h1,h2{
+    text-align: center;
+}
+
+section{
+    display: flex;
+    padding-top: px;
+}
+section aside {
+    background-color: #EEEEEE;
+    width:200px;
+    
+}
+section article  {
+
+
+
+}
