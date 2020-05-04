@@ -2,14 +2,13 @@ header{
     width:100%;
     height:150px;
     background-color:#64FFDA;
-
-}
-#photo{
-    
 }
 h1,h2{
     text-align: center;
 }
+
+
+
 
 section{
     display: flex;
@@ -22,4 +21,17 @@ section aside {
 }
 .fas fa-id-card{
 	font-size:30px;
+	font-size:30px;
+}
+.fas fa-tools{
+    font-size:30px;
+ }
+ .fas fa-palette{
+    font-size:40px;
+}
+.fas fa-graduation-cap{
+    font-size:40px;
+ }
+ .fas fa-briefcase{
+    font-size:40px;
 }
